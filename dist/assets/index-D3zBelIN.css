@@ -1,0 +1,1 @@
+:root{font-size:16px;font-family:Arial,Helvetica,sans-serif}body{padding:40px}.game{display:flex;gap:20px}.board{display:flex;width:105px;flex-wrap:wrap}.square{width:35px;height:35px;background-color:#fff;border:1px solid black;cursor:pointer;transition:ease background-color .3s}.square:hover{background-color:#e1e1e1}
